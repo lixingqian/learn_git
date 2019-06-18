@@ -5,3 +5,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Understand How Stage works.
 Git tracks changes.
+Created a new branch is quick.
