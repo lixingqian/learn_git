@@ -6,4 +6,3 @@ Git has a mutable index called stage.
 Understand How Stage works.
 Git tracks changes.
 Created a new branch is quick.
-Created a new branch is quick AND simple.
