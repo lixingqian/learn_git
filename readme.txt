@@ -7,4 +7,4 @@ Understand How Stage works.
 Git tracks changes.
 Created a new branch is quick.
 Created a new branch is quick and simple.
-
+action --no-ff.
